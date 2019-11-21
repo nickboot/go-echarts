@@ -30,6 +30,8 @@ In the Golang ecosystem, there are not many choices for data visualizing librari
 
 [中文 README](README_CN.md)
 
+测试
+
 ### 🔰 Installation
 
 ```shell
